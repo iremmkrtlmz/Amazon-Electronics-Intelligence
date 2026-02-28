@@ -10,8 +10,7 @@ This project performs comprehensive data analysis on Amazon Electronics product 
 
 - **reviews_Electronics_5.json**: Amazon Electronics category product reviews (5-core)
 
-## Setup
+## Requirements
 
-```bash
-pip install -r requirements.txt
-```
+- Python 3.x
+- pandas, numpy, matplotlib, seaborn
