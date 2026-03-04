@@ -13,4 +13,4 @@ This project performs comprehensive data analysis on Amazon Electronics product 
 ## Requirements
 
 - Python 3.x
-- pandas, numpy, matplotlib, seaborn
+- pandas, numpy, matplotlib, seaborn, scipy, wordcloud
